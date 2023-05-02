@@ -4,6 +4,7 @@
   "description": "You cannot able to keep your habit or want to create new habit.\r Then try this amazing app Habit Tracker",
   "main": "app.js",
   "scripts": {
+    "start":"nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
